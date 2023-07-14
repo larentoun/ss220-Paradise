@@ -3,6 +3,9 @@
 	desc = "Ура ура акулы"
 	author = "larentoun"
 
+//Гроины не трогал
+//Уши только сергал
+
 /datum/modpack/akula/pre_initialize()
 	. = ..()
 

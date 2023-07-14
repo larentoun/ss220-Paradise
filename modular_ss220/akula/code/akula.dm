@@ -4,7 +4,7 @@
 	icobase = 'modular_ss220/akula/icons/r_akula.dmi'
 	language = "Akula"
 	primitive_form = null
-	tail = "akulatail"
+	tail = "fish"
 	skinned_type = /obj/item/stack/sheet/leather
 	unarmed_type = /datum/unarmed_attack/claws
 
