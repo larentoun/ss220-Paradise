@@ -7,10 +7,12 @@
 	name = "Akula"
 	icon_state = "akula"
 
+/* broken
 /datum/body_accessory/tail/akula/shark
 	name = "Shark"
 	icon_state = "shark"
 	animated_icon_state = "shark_a"
+*/
 
 /datum/body_accessory/tail/akula/fish
 	name = "Fish"
