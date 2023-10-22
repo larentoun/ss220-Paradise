@@ -1,7 +1,7 @@
 /datum/body_accessory/tail/akula
 	icon = 'modular_ss220/akula/icons/body_accessory.dmi'
 	animated_icon = 'modular_ss220/akula/icons/body_accessory.dmi'
-	allowed_species = SPECIES_AKULA
+	allowed_species = list(SPECIES_AKULA)
 
 /datum/body_accessory/tail/akula/akula
 	name = "Akula"
